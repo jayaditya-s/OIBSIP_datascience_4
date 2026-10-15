@@ -32,4 +32,4 @@ jupyter notebook Spam_Detection.ipynb
 ```
 
 ## Demo Video
-<YouTube/LinkedIn link>
+<LinkedIn link> https://lnkd.in/p/gvSCNk5n
